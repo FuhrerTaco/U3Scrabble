@@ -1,0 +1,17 @@
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\bin\Debug\u3_scrabble.exe.config
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\bin\Debug\u3_scrabble.exe
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\bin\Debug\u3_scrabble.pdb
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.csprojResolveAssemblyReference.cache
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\MainWindow.g.cs
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\App.g.cs
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble_MarkupCompile.cache
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble_MarkupCompile.lref
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\MainWindow.baml
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.g.resources
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.Properties.Resources.resources
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.csproj.GenerateResource.Cache
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.exe
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.pdb
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\bin\Debug\Words.txt
+C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble_Content.g.cs
