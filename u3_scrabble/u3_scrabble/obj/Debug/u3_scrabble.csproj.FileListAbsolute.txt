@@ -15,3 +15,20 @@ C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.exe
 C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.pdb
 C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\bin\Debug\Words.txt
 C:\Users\nolan\source\repos\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble_Content.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\bin\Debug\Words.txt
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.csprojResolveAssemblyReference.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\MainWindow.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\App.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble_Content.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble_MarkupCompile.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble_MarkupCompile.lref
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\MainWindow.baml
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.g.resources
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.Properties.Resources.resources
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.csproj.GenerateResource.Cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.csproj.CoreCompileInputs.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.exe
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\obj\Debug\u3_scrabble.pdb
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\bin\Debug\u3_scrabble.exe.config
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\bin\Debug\u3_scrabble.exe
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u3_scrabble\u3_scrabble\bin\Debug\u3_scrabble.pdb
